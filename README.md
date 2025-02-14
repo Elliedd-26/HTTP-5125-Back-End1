@@ -11,5 +11,5 @@ This repository contains coursework, projects, and assignments for the **Back-En
 🔗 **Course Link**: [Humber Web Development](https://humber.ca)
 
 ## 🖼️ logo
-<img src="https://github.com/Elliedd-26/HTTP-5125-Back-End1/blob/main/c#-logo.png" alt="Back-End Development" width="100" height="100">
+<img src="https://github.com/Elliedd-26/HTTP-5125-Back-End1/blob/main/C#-logo.png" alt="Back-End Development" width="100" height="100">
 
