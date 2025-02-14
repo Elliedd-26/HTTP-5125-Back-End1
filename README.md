@@ -1,4 +1,15 @@
-# HTTP-5125-Back-End1
-🏷️ Course Name: Back-End Web Development 1
+# Back-End Web Development
 
-🏷️ Course Description: This course focuses on the development of server-side applications and services. Students will learn about database-driven programming, content management systems, and the creation of dynamic web applications. The curriculum emphasizes efficient website design and development, ensuring responsiveness and accessibility for all users.
+This repository contains coursework, projects, and assignments for the **Back-End Development** course at Humber College. The course focuses on server-side programming, API development, and database connectivity.
+
+## 📌 Course Topics
+- RESTful API Design
+- Node.js & Express.js
+- Authentication & Authorization
+- Server Deployment & Security
+
+🔗 **Course Link**: [Humber Web Development](https://humber.ca)
+
+## 🖼️ logo
+<img src="https://github.com/Elliedd-26/HTTP-5125-Back-End1/blob/main/c#-logo.png" alt="Back-End Development" width="100" height="100">
+
